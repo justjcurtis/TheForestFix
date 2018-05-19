@@ -1,0 +1,2 @@
+The Forest Fix is a simple python script that fixes a problem with the game "The Forest" where a user cannot launch the game.
+after running this script a restart is required for changes to take affect, the user will not be prompted for this nor will it be enforced.
